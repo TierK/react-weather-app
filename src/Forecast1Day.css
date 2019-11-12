@@ -1,0 +1,24 @@
+
+
+.Forecast1Day{
+    text-align: center;
+    box-sizing: border-box;
+    border: 1.5px solid #f2f2f2;
+    padding: 20px 10px;
+    font-weight: 500;
+    
+}
+
+.Forecast1Day h5{
+    margin: 0;
+    padding: 0;
+    padding-bottom: 15px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Forecast1Day i{
+    font-style: normal;
+    color: #b6b3b3;
+    padding-right: 4px;
+}
